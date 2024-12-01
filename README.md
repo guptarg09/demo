@@ -1,2 +1,4 @@
 # demo
-this is my first repository.Author - Ritesh Gupta
+this is my first repository.
+<br>
+Author - Ritesh Gupta
